@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp Nodejs Adonis Backend
+1. Nama: Alifta Maulana Rayhan Giraldi
+2. Email: raayend@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab: https://github.com/sirayhan/
+5. Akun Telegram: @raayend
